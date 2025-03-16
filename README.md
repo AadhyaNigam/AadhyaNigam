@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://octodex.github.com/images/privateinvestocat.jpg" width="200" height="200">
+  <img src="https://octodex.github.com/images/total-eclipse-of-the-octocat.jpg" width="200" height="200">
 </p>
 
 # 👋 Hi, I'm Aadhya Nigam!
