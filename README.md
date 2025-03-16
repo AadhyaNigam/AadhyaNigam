@@ -31,3 +31,8 @@
 
 ### ⚡ Fun Fact
 🌌 The universe is constantly expanding, just like our knowledge in tech! 🚀
+
+---
+
+#### 💫 Profile visits
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=plastic)
