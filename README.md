@@ -38,5 +38,7 @@
 
 ---
 
-#### 💫 Profile visits
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=plastic)
+#### 💫 Footprints
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AadhyaNigam&label=Profile%20Views&color=blue&style=plastic" alt="Footprints" />
+</p>
