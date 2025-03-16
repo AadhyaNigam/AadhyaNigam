@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Aadhya Nigam!
 
 ## 🚀 Passionate Developer | Space Enthusiast | IEEE Chairperson
