@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://octodex.github.com/images/total-eclipse-of-the-octocat.jpg" width="200" height="200">
+  <img width="1536" height="1024" alt="ChatGPT Image Sep 9, 2025, 10_53_36 PM" src="https://github.com/user-attachments/assets/6cfbe26b-aea0-4a99-8b93-133c46bb6889" />
 </p>
 
 # 👋 Hi, I'm Aadhya Nigam!
