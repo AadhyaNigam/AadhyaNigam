@@ -4,14 +4,12 @@
 
 # 👋 Hi, I'm Aadhya Nigam!
 
-## 🚀 Passionate Developer | Space Enthusiast | IEEE Chairperson
-
 ### 🔭 About Me
-- 🎓 **B.Tech CSE (3rd Year)** | Chairperson IEEE Student Branch
+- 🎓 **B.Tech CSE Final Year** | Ex-Chairperson IEEE Student Branch
 - 🚀 Passionate about **technology, music, and space science**
 - 💡 Exploring **Data Structures, Algorithms, DBMS, and Web Technologies**
 - 🤝 Love working in teams and collaborating on projects
-- 🌠 Fascinated by **astronomy, cosmology, and the latest tech trends**
+- 🌠 Fascinated by **astronomy and the latest tech trends**
 
 ---
 
@@ -22,7 +20,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
